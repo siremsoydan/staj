@@ -1,2 +1,0 @@
-# staj
-staj uygulaması
